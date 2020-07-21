@@ -1,2 +1,2 @@
-ACELogClient 8888 localhost < .\Test.cpp
+ACELogClient 8881 localhost < .\Test.cpp
 pause
